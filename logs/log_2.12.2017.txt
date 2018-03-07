@@ -1,0 +1,24 @@
+[08:59:27]: Ying Lin-----check the number of available parking space in area:
+garage_no = , level = , area = , employee_only = , type = , disability = 
+[08:59:27]: Ying Lin-----the available number of this area is:
+number = 135
+[08:59:28]: Ying Lin-----check the number of available parking space in area:
+garage_no = , level = , area = , employee_only = , type = , disability = 
+[08:59:28]: Ying Lin-----the available number of this area is:
+number = 135
+[10:43:51]: Ying Lin-----check the number of available parking space in area:
+garage_no = , level = , area = , employee_only = , type = , disability = 
+[10:43:51]: Ying Lin-----the available number of this area is:
+number = 135
+[10:43:51]: Ying Lin-----check the number of available parking space in area:
+garage_no = , level = , area = , employee_only = , type = , disability = 
+[10:43:51]: Ying Lin-----the available number of this area is:
+number = 135
+[16:04:13]: Ying Lin-----check the number of available parking space in area:
+garage_no = , level = , area = , employee_only = , type = , disability = 
+[16:04:13]: Ying Lin-----the available number of this area is:
+number = 135
+[16:04:13]: Ying Lin-----check the number of available parking space in area:
+garage_no = , level = , area = , employee_only = , type = , disability = 
+[16:04:13]: Ying Lin-----the available number of this area is:
+number = 135

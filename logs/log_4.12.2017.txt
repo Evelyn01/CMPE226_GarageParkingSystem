@@ -1,0 +1,1244 @@
+[13:59:01]: Ying Lin-----check the number of available parking space in area:
+garage_no = , level = , area = , employee_only = , type = , disability = 
+[13:59:01]: Ying Lin-----the available number of this area is:
+number = 135
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S01
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S02
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S03
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S04
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S05
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S06
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S07
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S08
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S09
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S10
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Invalid, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S11
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S12
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S13
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S14
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S15
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S16
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S17
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S18
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S19
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S20
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S21
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S22
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S23
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S24
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S25
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S26
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Invalid, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S27
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S28
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S29
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S30
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S31
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S32
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S33
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S34
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S35
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S36
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S37
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S38
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S39
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S40
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S41
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S42
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S43
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S44
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S45
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Invalid, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S01
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S02
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S03
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S04
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S05
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S06
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S07
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S08
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S09
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S10
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S11
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S12
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S13
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S14
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S15
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S16
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S17
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S18
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S19
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S20
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S21
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S22
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S23
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S24
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S25
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S26
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S27
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S28
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S29
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S30
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S31
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S32
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S33
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S34
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S35
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S36
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S37
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S38
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Invalid, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S39
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Invalid, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S40
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Invalid, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S41
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S42
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S43
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S44
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S45
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S46
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S47
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S48
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S49
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S50
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S51
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S52
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S53
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S54
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S55
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S56
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S57
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S58
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S59
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S60
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S61
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S62
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S63
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S64
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S65
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S66
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S67
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S68
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S69
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S70
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S71
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S72
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S73
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S74
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S75
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S01
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S02
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S03
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S04
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S05
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S06
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S07
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S08
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S09
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S10
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S11
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S12
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S13
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S14
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S15
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S16
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S17
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S18
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S19
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S20
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Invalid, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S21
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Invalid, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S22
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S23
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S24
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S25
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S26
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S27
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S28
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S29
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S30
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S31
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S32
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S33
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S34
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:15:48]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S35
+[18:15:48]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S01
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S02
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S03
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S04
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S05
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S06
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S07
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S08
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S09
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S10
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Invalid, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S11
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S12
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S13
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S14
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S15
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S16
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S17
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S18
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S19
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S20
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S21
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S22
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S23
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S24
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S25
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S26
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Invalid, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S27
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S28
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S29
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S30
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S31
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S32
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S33
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S34
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S35
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S36
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S37
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S38
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S39
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S40
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S41
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S42
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S43
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S44
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G01, space_no = S45
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Invalid, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S01
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S02
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S03
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S04
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S05
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S06
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S07
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S08
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S09
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S10
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S11
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S12
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S13
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S14
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S15
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S16
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S17
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S18
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S19
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S20
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S21
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S22
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S23
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S24
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S25
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S26
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S27
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S28
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S29
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S30
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S31
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S32
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S33
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S34
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S35
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S36
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S37
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S38
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Invalid, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S39
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Invalid, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S40
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Invalid, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S41
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S42
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S43
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S44
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S45
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S46
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S47
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S48
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S49
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S50
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S51
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S52
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S53
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S54
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S55
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S56
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S57
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S58
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S59
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S60
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S61
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S62
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S63
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S64
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S65
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S66
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S67
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S68
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S69
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S70
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S71
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S72
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S73
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S74
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G02, space_no = S75
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S01
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S02
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S03
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S04
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S05
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S06
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S07
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S08
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S09
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S10
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S11
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Unknown, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S12
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S13
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S14
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S15
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S16
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S17
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S18
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S19
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S20
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Invalid, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S21
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Invalid, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S22
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S23
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S24
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S25
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S26
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S27
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S28
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S29
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S30
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S31
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S32
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S33
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S34
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Empty, 
+[18:16:02]: Ying Lin-----check parking space status, parking space number:
+garage_no = G03, space_no = S35
+[18:16:02]: Ying Lin-----get the parking space's status:
+status = Unknown, 

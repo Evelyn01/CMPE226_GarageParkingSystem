@@ -1,0 +1,650 @@
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S01
+[10:35:16]: get the parking space's status:
+status = Unknown, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S02
+[10:35:16]: get the parking space's status:
+status = Unknown, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S03
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S04
+[10:35:16]: get the parking space's status:
+status = Unknown, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S05
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S06
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S07
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S08
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S09
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S10
+[10:35:16]: get the parking space's status:
+status = Invalid, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S11
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S12
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S13
+[10:35:16]: get the parking space's status:
+status = Unknown, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S14
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S15
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S16
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S17
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S18
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S19
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S20
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S21
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S22
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S23
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S24
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S25
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S26
+[10:35:16]: get the parking space's status:
+status = Invalid, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S27
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S28
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S29
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S30
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S31
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S32
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S33
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S34
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S35
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S36
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S37
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S38
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S39
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S40
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S41
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S42
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S43
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S44
+[10:35:16]: get the parking space's status:
+status = Unknown, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G01, space_no = S45
+[10:35:16]: get the parking space's status:
+status = Invalid, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S01
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S02
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S03
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S04
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S05
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S06
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S07
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S08
+[10:35:16]: get the parking space's status:
+status = Unknown, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S09
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S10
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S11
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S12
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S13
+[10:35:16]: get the parking space's status:
+status = Unknown, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S14
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S15
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S16
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S17
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S18
+[10:35:16]: get the parking space's status:
+status = Unknown, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S19
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S20
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S21
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S22
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S23
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S24
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S25
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S26
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S27
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S28
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S29
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S30
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S31
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S32
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S33
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S34
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S35
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S36
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S37
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S38
+[10:35:16]: get the parking space's status:
+status = Invalid, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S39
+[10:35:16]: get the parking space's status:
+status = Invalid, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S40
+[10:35:16]: get the parking space's status:
+status = Invalid, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S41
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S42
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S43
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S44
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S45
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S46
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S47
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S48
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S49
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S50
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S51
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S52
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S53
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S54
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S55
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S56
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S57
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S58
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S59
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S60
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S61
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S62
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S63
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S64
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S65
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S66
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S67
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S68
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S69
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S70
+[10:35:16]: get the parking space's status:
+status = Unknown, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S71
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S72
+[10:35:16]: get the parking space's status:
+status = Unknown, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S73
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S74
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G02, space_no = S75
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S01
+[10:35:16]: get the parking space's status:
+status = Unknown, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S02
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S03
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S04
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S05
+[10:35:16]: get the parking space's status:
+status = Unknown, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S06
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S07
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S08
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S09
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S10
+[10:35:16]: get the parking space's status:
+status = Unknown, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S11
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S12
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S13
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S14
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S15
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S16
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S17
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S18
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S19
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S20
+[10:35:16]: get the parking space's status:
+status = Invalid, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S21
+[10:35:16]: get the parking space's status:
+status = Invalid, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S22
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S23
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S24
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S25
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S26
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S27
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S28
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S29
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S30
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S31
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S32
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S33
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S34
+[10:35:16]: get the parking space's status:
+status = Empty, 
+[10:35:16]: check parking space status, parking space number:
+garage_no = G03, space_no = S35
+[10:35:16]: get the parking space's status:
+status = Unknown, 
+[10:40:07]: check the number of avalable parking space in area:
+garage_no = , level = , area = , employee_only = , type = , disability = 
+[10:40:07]: the avalable number of this area is:
+number = 141
+[10:40:11]: check the number of avalable parking space in area:
+garage_no = G01, level = , area = , employee_only = , type = , disability = 
+[10:40:11]: the avalable number of this area is:
+number = 40
+[10:45:48]: check available parking space in area:
+garage_no = , level = , area = , employee_only = , type = , disability = 
+[10:45:55]: check remain time of parking space:
+garage_no = G01, space_no = S02
+[10:52:50]: check remain time of parking space:
+garage_no = G01, space_no = S03
+[10:58:48]: check remain time of parking space:
+garage_no = G01, space_no = S03
+[10:59:18]: check remain time of parking space:
+garage_no = G01, space_no = S03
+[10:59:33]: check remain time of parking space:
+garage_no = G01, space_no = S03
+[11:00:00]: check remain time of parking space:
+garage_no = G01, space_no = S03
+[11:00:00]: the remain time of the parking space is:
+remain_time = 0
+[11:05:10]: find where does the car park, plate number is:
+plate_num = BCD-999
+[16:26:06]: check the number of available parking space in area:
+garage_no = , level = , area = , employee_only = , type = , disability = 
+[16:26:06]: the available number of this area is:
+number = 141
